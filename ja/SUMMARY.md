@@ -33,7 +33,7 @@
     * [QUIC streams and HTTP/3](h3-streams.md)
     * [Prioritization](h3-prio.md)
     * [Server push](h3-push.md)
-    * [Comparison with HTTP/2](h3-h2.md)
+    * [HTTP/2 と比較した HTTP/3](h3-h2.md)
 * [よくある疑問点](criticism.md)
 * [The specifications(仕様)](specs.md)
 * [QUIC v2](quic-v2.md)
