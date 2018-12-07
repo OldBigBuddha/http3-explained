@@ -20,7 +20,7 @@
     * [HTTP over QUIC](feature-http.md)
     * [Non-HTTP over QUIC](feature-nonhttp.md)
 * [QUIC の仕組み](quic.md)
-    * [Connections](quic-connections.md)
+    * [コネクション](quic-connections.md)
     * [接続で TLS を使う](quic-tls.md)
     * [ストリーム](quic-streams.md)
     * [0-RTT](quic-0rtt.md)
